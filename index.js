@@ -25,4 +25,4 @@ client.on("ready", () => {
     })
 })
 
-client.login(TOKEN)
+client.login(ODUxNzgxMjYyMDMyNTAyNzk1.YL9RHg.KovDt0S-8J40c4lzI20XpXXE3WA)
